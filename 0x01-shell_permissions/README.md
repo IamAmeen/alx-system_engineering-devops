@@ -1,1 +1,1 @@
-Who is a user
+A script that prints the effective user name
