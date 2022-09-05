@@ -1,2 +1,2 @@
-#!/bin/basf
-cat "(Ôo)'
+#!/bin/bash
+echo "\"(Ôo)'"
